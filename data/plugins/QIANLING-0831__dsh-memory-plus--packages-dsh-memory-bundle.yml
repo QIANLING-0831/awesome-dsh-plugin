@@ -1,0 +1,6 @@
+url: https://github.com/QIANLING-0831/dsh-memory-plus/tree/main/packages/dsh-memory-bundle
+name: QIANLING-0831/dsh-memory-plus#dsh-memory-bundle
+category: memory
+description:
+  en: 'Memory profile composition with Chinese session search, hybrid recall, persistent workspace facts, user-pinned rules and reusable native skills.'
+  zh: '记忆 profile 组合：中文会话检索、混合召回、workspace 持久事实、用户固定规则与可复用原生技能。'
